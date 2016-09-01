@@ -1,0 +1,17 @@
+[
+  {
+    "firstName":"John",
+    "address":"Otniel22",
+    "lastName":"Doe"
+  },
+  {
+    "firstName":"Anna",
+    "address":"Gidon Ben Yoash 3",
+    "lastName":"Smith"
+  },
+  {
+    "firstName":"Peter",
+    "address":"Rehovot 2",
+    "lastName":"Jones"
+  }
+  ]

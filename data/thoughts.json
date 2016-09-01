@@ -1,0 +1,20 @@
+[
+  {
+    "thought":"Hii My Name Is Ido",
+    "likes":"12",
+    "userId": "12345",
+    "guessList" : "EmptyNow"
+  },
+  {
+    "thought":"The World is Blue?",
+    "likes":"32",
+    "userId": "12367",
+    "guessList" : "EmptyNow"
+  },
+  {
+    "thought":"How Far is The moon ?",
+    "likes":"24",
+    "userId": "12378",
+    "guessList" : "EmptyNow"
+  }
+]
